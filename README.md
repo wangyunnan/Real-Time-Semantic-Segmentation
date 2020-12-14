@@ -1,4 +1,13 @@
 # Real_Time_Semantic_Segmentation
-A real-time semantic segmentation method based on knowledge distillation
+The code for paper "Real-Time Semantic Segmentation Based on Knowledge Distillation".
 
 Environment: Ubuntu 18.04; Anaconda 5.2.0; pytorch 1.1.0; PyQt5; OpenCV 3.4.9.
+
+The code will be available after the article is received. 
+
+In order to provide experimental results, I uploaded checkpoints for you to check.
+
+Furthermore, to facilitate the demonstration, I also have uploaded the complete UI code, which you can run under windows or Linux. In this paper, we run this code on an embedded platform, NVIDIA Jetson Xavier.
+
+
+
