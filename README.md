@@ -3,7 +3,7 @@ The code for paper "Real-Time Semantic Segmentation Based on Knowledge Distillat
 
 Environment: Ubuntu 18.04; Anaconda 5.2.0; pytorch 1.1.0; PyQt5; OpenCV 3.4.9.
 
-The code will be available after the article is received. 
+The code will be available after the paper is received. 
 
 In order to provide experimental results, I uploaded checkpoints for you to check.
 
