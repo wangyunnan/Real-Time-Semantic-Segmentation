@@ -9,5 +9,7 @@ In order to provide experimental results, I uploaded checkpoints for you to chec
 
 Furthermore, to facilitate the demonstration, I also have uploaded the complete UI code, which you can run under windows or Linux. In this paper, we run this code on an embedded platform, NVIDIA Jetson Xavier.
 
+More details: wangyunnan@sjtu.edu.cn
+
 
 
