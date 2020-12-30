@@ -1,5 +1,5 @@
 # Real_Time_Semantic_Segmentation
-The code for paper "Real-Time Semantic Segmentation Based on Knowledge Distillation".
+The code for paper "Distilling the Long-Range Knowledge for Real-Time Semantic Segmentation".
 
 Environment: Ubuntu 18.04; Anaconda 5.2.0; pytorch 1.1.0; PyQt5; OpenCV 3.4.9.
 
